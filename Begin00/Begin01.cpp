@@ -5,6 +5,9 @@ using namespace std;
 
 // Let's start with basics
 int main (){
-	std::cout << "Hello Math"
+	std::cout << "Hello"
+			  << " "
+			  << "Math"
+			  << endl;
 	return 0;
 }
