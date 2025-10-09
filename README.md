@@ -33,6 +33,6 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 - [ ] Learned New
 - [ ] Know how it works
 - [ ] Can explain to other
-- [ ] Sloved
+- [ ] Solved
 
 ---
