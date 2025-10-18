@@ -5,9 +5,8 @@ using namespace std;
 
 // Let's start with basics
 int main (){
-	std::cout << "Hello"
-			  << " "
-			  << "Math"
-			  << endl;
+	int a{2}, b{5}, c;
+	c = a + b;
+	std::cout << "Result = "<< c << endl;
 	return 0;
 }
